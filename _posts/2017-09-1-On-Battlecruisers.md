@@ -7,7 +7,7 @@ title: "On Battlecruisers"
 ![](/Images/965f69df2d96456252426c2f89f2f006.jpg)
 **The battlecruiser _Hood_. Sleek, swift, and beautiful, she was the pride of the Royal Navy in the interwar period.** 
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;However, many have concluded that the loss of these four vessels irrefutably demonstrated that the concept of the battlecruiser was unsound. In my opinion, this is a misleading conclusion--the heavy losses sustained by the British at Jutland can much more accurately be attributed to the manner in which the ships were deployed and handled, rather than to any inherent flaws in the designs. Nonetheless, the battlecruiser, with the armor of a cruiser but the guns and engines of a dreadnought battleship, was inherently unfit to serve in the line of battle, and the concept that these vessels could join into the line of battle after spotting the enemy fleet and reporting its position to the main body of their force was, without a doubt, problematic. But, without going into too much detail, allow me to pose a different argument. Let’s suppose that the battlecruiser was the perfect warship for the protection of British commerce across the globe--that there was no financially better option. In *Royal Navy battlecruiser vs. High Seas Fleet battlecruiser*, naval historian Mark Stille argues that the capital required for the British to procure a single battlecruiser could have been much better spent on a larger number of smaller cruisers. While he may be right, I would like to provide a different perspective.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;However, many have concluded that the loss of these four vessels irrefutably demonstrated that the concept of the battlecruiser was unsound. As I see it, this is a misleading conclusion--the heavy losses sustained by the British at Jutland can much more accurately be attributed to the manner in which the ships were deployed and handled, rather than to any inherent flaws in the designs. Nonetheless, the battlecruiser, with the armor of a cruiser but the guns and engines of a dreadnought battleship, was inherently unfit to serve in the line of battle, and the concept that these vessels could join into the line of battle after spotting the enemy fleet and reporting its position to the main body of their force was, without a doubt, problematic. But, without going into too much detail, allow me to pose a different argument. Let’s suppose that the battlecruiser was the perfect warship for the protection of British commerce across the globe--that there was no financially better option. In *Royal Navy battlecruiser vs. High Seas Fleet battlecruiser*, naval historian Mark Stille argues that the capital required for the British to procure a single battlecruiser could have been much better spent on a larger number of smaller cruisers. While he may be right, I would like to provide a different perspective.
 
 ![](/Images/NewZealand1.jpg)
 **Indefatigable class battlecruiser _New Zealand_, present at Jutland.**
@@ -22,7 +22,10 @@ title: "On Battlecruisers"
 ![](/Images/Alaska1.jpg)
 **Decades later, the U.S. Navy would build two "large cruisers" (designated CB) of the _Alaska_ class, which, designed to outgun any existing cruiser and outrun existing battleships, very much embodied the essential idea of the battlecruiser. Unlike the early British ships of this type, they were never intended or used to engage full-fledged battleships--a matchup for which battlecruisers were, by design, ill-suited.**
 
-References
+Footnotes:
 
 [^1]: Following the catastrophic explosions of *Indefatigable* and *Queen Mary* at Jutland, Admiral David Beatty, commander of the Royal Navy's 1st Battlecruiser Squadron, stated with sangfroid in the midst of battle that "there seems to be something wrong with our bloody ships today." 
+
+References:
+
 

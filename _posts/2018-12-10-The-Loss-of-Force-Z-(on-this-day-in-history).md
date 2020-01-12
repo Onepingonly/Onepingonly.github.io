@@ -12,6 +12,9 @@ title: "The Loss of Force Z (on this day in history)"
 "An Ode to Force Z"
 
 
+
+
+
 ‘Twas 10 December ‘41,
 Two dreadnoughts underway;
 Their mission: show the Rising Sun, 
@@ -58,6 +61,11 @@ Trafalgar’s spell had done them in,
 Superbia the fatal sin;
 For Nelson’s glory, admirals yearned, 
 Those poor brave fools, they’d never learned.
+
+
+
+
+
 
 
 Sources: 

@@ -27,10 +27,9 @@ title: "On Battlecruisers"
 
 Select Bibliography
 
-Hill, Richard. *War at Sea in the Ironclad Age*. General editor John
-&nbsp;&nbsp;Keegan. London: Cassell & Co, 2002.
+Hill, Richard. *War at Sea in the Ironclad Age*. General editor John Keegan. London: Cassell & Co, 2002.
 
-Massie, Robert. *Castles of Steel: Britain, Germany, and the Winning of*    &nbsp;&nbsp;*the *Great War at Sea*. London and New York: Random House, 2003. 
+Massie, Robert. *Castles of Steel: Britain, Germany, and the Winning of the Great War at Sea*. London and New York: Random House, 2003. 
 
 Stille, Mark. *British Battlecruiser vs. German Battlecruiser*. Oxford: Osprey, 2013. 
 

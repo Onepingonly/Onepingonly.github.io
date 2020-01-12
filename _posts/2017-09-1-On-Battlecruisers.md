@@ -31,7 +31,7 @@ Hill, Richard. *War at Sea in the Ironclad Age*. General editor John Keegan. Lon
 
 Massie, Robert. *Castles of Steel: Britain, Germany, and the Winning of the Great War at Sea*. London and New York: Random House, 2003. 
 
-Stille, Mark. *British Battlecruiser vs. German Battlecruiser*. Oxford: Osprey, 2013. 
+Stille, Mark. *British Battlecruiser vs. German Battlecruiser: 1914-1916*. Oxford: Osprey, 2013. 
 
 References:
 

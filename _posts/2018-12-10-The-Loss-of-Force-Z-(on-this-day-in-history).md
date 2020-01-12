@@ -79,4 +79,4 @@ ____________________________________________________________________________
 Sources: 
 *Kaigun: Strategy, Tactics, and Technology in the Imperial Japanese Navy, 1887-1941*, by Evans and Peattie
 *The Rising Sun: The Decline and Fall of the Japanese Empire, 1936-45* by John Toland
-[https://en.wikipedia.org/wiki/Sinking_of_Prince_of_Wales_and_Repulse]
+[Sinking of *Prince of Wales* and *Repulse*](https://en.wikipedia.org/wiki/Sinking_of_Prince_of_Wales_and_Repulse)

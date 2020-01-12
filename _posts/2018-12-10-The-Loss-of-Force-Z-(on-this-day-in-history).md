@@ -13,56 +13,48 @@ title: "The Loss of Force Z (on this day in history)"
 
 ‘Twas 10 December ‘41,
 Two dreadnoughts underway;
-
 Their mission: show the Rising Sun, 
 That Britain still held sway.
 
 
 Their names were H.M.S Repulse,
 A swift, sleek battlecruiser,
-
 And young and mighty Prince of Wales, 
 Completed ten months prior.
 
 
 Combined they formed the fast Force Z, 
-Destroyers at their sides,
-
+Destroyers at their sides;
 Their nakedness they failed to see, 
 Through fog of hubris; pride.
 
 
 Those pesky birds just came and came, 
 No heed the hail of fire;
-
 Their engines buzzed like angry bees, 
 A swarm never to tire.
 
 
 For then Repulse failed to Repulse, 
 The fish that struck below;
-
 Torpedoes struck, her hull convulsed, 
 And so went down Repulse.
 
 
 The Prince of Wales was next to go, 
 She lived a year then died;
-
 Her loss was quite the savage blow, 
 To British naval pride.
 
 
 How could those men have lost such face? 
 To such a damned inferior race?
-
 Their ships had ruled the waves for years, 
 Yet there stood Churchill, eyes in tears.
 
 
 Trafalgar’s spell had done them in, 
 Superbia the fatal sin;
-
 For Nelson’s glory, admirals yearned, 
 Those poor brave fools, they’d never learned.
 

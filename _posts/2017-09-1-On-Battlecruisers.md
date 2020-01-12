@@ -24,7 +24,7 @@ title: "On Battlecruisers"
 
 Footnotes:
 
-[^1]: Following the catastrophic explosions of *Indefatigable* and *Queen Mary* at Jutland, Admiral David Beatty, commander of the Royal Navy's 1st Battlecruiser Squadron, stated with sangfroid in the midst of battle that "there seems to be something wrong with our bloody ships today." 
+[^1]: Following the catastrophic explosions of *Indefatigable* and *Queen Mary* at Jutland, Admiral David Beatty, commander of the Royal Navy's 1st Battlecruiser Squadron, stated (with sangfroid in the midst of battle) that "there seems to be something wrong with our bloody ships today." 
 
 References:
 

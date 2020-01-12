@@ -22,7 +22,7 @@ title: "On Battlecruisers"
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;So, was the battlecruiser concept a sound one, and were they worth the investment? Yes, and no. The battlecruiser was extremely effective at destroying enemy cruisers, and while used in this role would only be put at serious risk if used in battle against another vessel of its type. However, which nations besides for Germany and the United States could actually afford to build and operate a sizeable fleet of battlecruisers? Although much has been written on the superiority of German battlecruisers to their British counterparts, and they proved quite useful in the major fleet actions of the war (Dogger Bank, Jutland), there was little or nothing they could do to prevent the British battlecruisers from operating with impunity across the globe, for they could not sail around the English Isles or through the English Channel into the North Sea without risking interception and annihilation by the Grand Fleet under Admiral Jellicoe. Thus, I would posit that the battlecruiser was, at least in theory, quite a useful asset for the British Royal Navy prior to and during the First World War.
 
 ![](/Images/Alaska1.jpg)
-**Decades later, the U.S. Navy would build two "large cruisers" (designated CB) of the _Alaska_ class, which, designed to outgun any existing cruiser and outrun existing battleships, were battlecruisers in all but name.**
+**Decades later, the U.S. Navy would build two "large cruisers" (designated CB) of the _Alaska_ class, which, designed to outgun any existing cruiser and outrun existing battleships, very much embodied the essential idea of the battlecruiser.**
 
 
 

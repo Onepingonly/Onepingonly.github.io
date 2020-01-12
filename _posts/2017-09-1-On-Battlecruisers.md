@@ -22,5 +22,7 @@ title: "On Battlecruisers"
 ![](/Images/Alaska1.jpg)
 **Decades later, the U.S. Navy would build two "large cruisers" (designated CB) of the _Alaska_ class, which, designed to outgun any existing cruiser and outrun existing battleships, very much embodied the essential idea of the battlecruiser. Unlike the early British ships of this type, they were never intended or used to engage full-fledged battleships--a matchup for which battlecruisers were, by design, ill-suited.**
 
+References
+
 [^1]: Following the catastrophic explosions of *Indefatigable* and *Queen Mary* at Jutland, Admiral David Beatty, commander of the Royal Navy's 1st Battlecruiser Squadron, stated with sangfroid in the midst of battle that "there seems to be something wrong with our bloody ships today." 
 

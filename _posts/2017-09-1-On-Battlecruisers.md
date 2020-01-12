@@ -2,10 +2,13 @@
 layout: post
 title: "On Battlecruisers"
 ---
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Today, I’d like to discuss a type of warship surrounded with controversy: the battlecruiser. As many of you are aware, the British Royal Navy lost three of these majestic warships at the Battle of Jutland in 1916: The *Indefatigable*, *Queen Mary*, and *Invincible* (with Rear Admiral Horace Hood aboard) all blew up with almost no survivors. Years later, in 1941, the HMS *Hood*, Britain’s last and most advanced battlecruiser, was lost in the Battle of the Denmark Strait--blowing up just as violently as her predecessors sunk at Jutland. Something was evidently wrong with these “bloody” ships. [^1]
-
 ![](/Images/965f69df2d96456252426c2f89f2f006.jpg)
 **The battlecruiser _Hood_. Sleek, swift, and beautiful, she was the pride of the Royal Navy in the interwar period.** 
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Today, I’d like to discuss a type of warship surrounded with controversy: the battlecruiser. As many of you are aware, the British Royal Navy lost three of these majestic warships at the Battle of Jutland in 1916: The *Indefatigable*, *Queen Mary*, and *Invincible* (with Rear Admiral Horace Hood aboard) all blew up with almost no survivors. Years later, in 1941, the HMS *Hood*, Britain’s last and most advanced battlecruiser, was lost in the Battle of the Denmark Strait--blowing up just as violently as her predecessors sunk at Jutland. Something was evidently wrong with these “bloody” ships. [^1]
+
+![](/Images/QueenMary1916.png)
+**The battlecruiser _Queen Mary_, sunk at the Battle of Jutland in 1916.** 
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;However, many have concluded that the loss of these four vessels irrefutably demonstrated that the concept of the battlecruiser was unsound. As I see it, this is a misleading conclusion--the heavy losses sustained by the British at Jutland can much more accurately be attributed to the manner in which the ships were deployed and handled, rather than to any inherent flaws in the designs. [^2]Nonetheless, the battlecruiser, with the armor of a cruiser but the guns and engines of a dreadnought battleship, was inherently unfit to serve in the line of battle, and the concept that these vessels could join into the line of battle after spotting the enemy fleet and reporting its position to the main body of their force was, without a doubt, problematic. But, without going into too much detail, allow me to pose a different argument. Let’s suppose that the battlecruiser was the perfect warship for the protection of British commerce across the globe--that there was no financially better option. In *Royal Navy battlecruiser vs. High Seas Fleet battlecruiser*, naval historian Mark Stille argues that the capital required for the British to procure a single battlecruiser could have been much better spent on a larger number of smaller cruisers. While he may be right, I would like to provide a different perspective.
 

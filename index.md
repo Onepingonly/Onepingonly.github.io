@@ -5,5 +5,5 @@
 layout: home
 ---
 Essays, Commentary, and More on Naval Matters Past, Present, and Future
-![](/Images/Renown.jpg)
+![](/Images/Derfflinger2.jpg)
 

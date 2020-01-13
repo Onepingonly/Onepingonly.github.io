@@ -5,7 +5,7 @@ title: "On Battlecruisers"
 ![](/Images/965f69df2d96456252426c2f89f2f006.jpg)
 **The battlecruiser _Hood_. Sleek, swift, and beautiful, she was the pride of the Royal Navy in the interwar period.** 
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Today, I’d like to discuss a type of warship surrounded with controversy: the battlecruiser. As many of you are aware, the British Royal Navy lost three of these majestic warships at the Battle of Jutland in 1916: The *Indefatigable*, *Queen Mary*, and *Invincible* (with Rear Admiral Horace Hood aboard) all blew up with almost no survivors. Years later, in 1941, the HMS *Hood*, Britain’s last and most advanced battlecruiser, was lost in the Battle of the Denmark Strait--blowing up just as violently as her predecessors sunk at Jutland. Something was evidently wrong with these “bloody” ships. [^1]
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Today, I’d like to discuss a type of warship surrounded with controversy: the battlecruiser. As many of you are aware, the British Royal Navy lost three of these majestic warships at the Battle of Jutland in 1916: The *Indefatigable*, *Queen Mary*, and *Invincible* (with Rear Admiral Horace Hood aboard) all blew up with almost no survivors. Years later, in 1941, the HMS *Hood*, Britain’s last and most advanced battlecruiser, was lost in the Battle of the Denmark Strait--blowing up just as violently as her predecessors sunk at Jutland. Something was evidently wrong with these “bloody” ships.[^1]
 
 ![](/Images/QueenMary1916.png)
 **The battlecruiser _Queen Mary_, sunk at the Battle of Jutland in 1916.** 

@@ -5,5 +5,5 @@
 layout: home
 ---
 Essays, Commentary, and More on Naval Matters Past, Present, and Future
-![](/Images/Iowa1.png)
+![](/Images/Revenge1.jpeg)
 

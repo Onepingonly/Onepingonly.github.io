@@ -25,7 +25,7 @@ title: "On Battlecruisers"
 ![](/Images/Derfflinger2.jpg)
 **A photo of _Derfflinger_.**
 <br/><br/>
-____________________________________________________________________________
+
 Unless otherwise stated, no images on this site are my own. 
 
 Copyright &copy; feargodanddreadnought.com. All rights reserved.

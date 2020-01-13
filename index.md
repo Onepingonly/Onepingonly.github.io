@@ -6,7 +6,7 @@ layout: home
 ---
 Essays, Commentary, and More on Naval Matters Past, Present, and Future
 <br/>
-![](/Images/Iowa1.png)
+![](/Images/Bayern1.jpg)
 **Unless otherwise stated, no images on this site are my own.**
 
 Copyright &copy; feargodanddreadnought.com. All rights reserved.

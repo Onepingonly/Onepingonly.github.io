@@ -28,7 +28,7 @@ title: "On Battlecruisers"
 ____________________________________________________________________________
 Unless otherwise stated, no images on this site are my own. 
 
-&copy; feargodanddreadnought.com. All rights reserved.
+Copyright &copy; feargodanddreadnought.com. All rights reserved.
 
 Select Bibliography:
 

@@ -25,7 +25,7 @@ title: "On Battlecruisers"
 ![](/Images/Derfflinger2.jpg)
 **A photo of _Derfflinger_.**
 
-Select Bibliography
+Select Bibliography:
 
 Hill, Richard. *War at Sea in the Ironclad Age*. General editor John Keegan. London: Cassell & Co, 2002.
 

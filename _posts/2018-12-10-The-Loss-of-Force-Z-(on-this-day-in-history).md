@@ -83,6 +83,7 @@ Sources:
 
 [Sinking of *Prince of Wales* and *Repulse*](https://en.wikipedia.org/wiki/Sinking_of_Prince_of_Wales_and_Repulse)
 
+____________________________________________________________________________
 Unless otherwise stated, no images on this site are my own. 
 
 &copy; feargodanddreadnought.com. All rights reserved.

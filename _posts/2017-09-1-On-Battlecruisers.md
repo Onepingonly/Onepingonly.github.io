@@ -30,8 +30,6 @@ Unless otherwise stated, no images on this site are my own.
 
 &copy; feargodanddreadnought.com. All rights reserved.
 
-____________________________________________________________________________
-
 Select Bibliography:
 
 Hill, Richard. *War at Sea in the Ironclad Age*. General editor John Keegan. London: Cassell & Co, 2002.

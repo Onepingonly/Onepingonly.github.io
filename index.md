@@ -4,5 +4,6 @@
 
 layout: home
 ---
+Essays, Commentary, and More on Naval Matters Past, Present, and Future
 ![](/Images/NJ1.jpg)
 

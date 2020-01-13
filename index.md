@@ -5,6 +5,7 @@
 layout: home
 ---
 Essays, Commentary, and More on Naval Matters Past, Present, and Future
+
 _______________________________________________________________________
 
 ![](/Images/Derfflinger2.jpg)

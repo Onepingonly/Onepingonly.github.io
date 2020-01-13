@@ -4,5 +4,5 @@
 
 layout: home
 ---
-![](/Images/Derfflinger2.jpg)
+![](/Images/NJ1.jpg)
 

@@ -7,7 +7,7 @@ layout: home
 Essays, Commentary, and More on Naval Matters Past, Present, and Future
 <br/>
 ![](/Images/Iowa2.jpeg)
-**Battleship _New Jersey_, 26 October 1943. Official U.S. Navy Photograph from the collections of the Naval History and Heritage Command. 
+**Battleship _New Jersey_, 26 October 1943. Official U.S. Navy Photograph from the collections of the Naval History and Heritage Command.**
 
 
 Unless otherwise stated, no images on this site are my own.

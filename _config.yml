@@ -19,7 +19,6 @@
 # in the templates via {{ site.myvariable }}.
 
 title: Fear God & Dreadnought
-email: FearGodandDreadnought@protonmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Essays and commentary on naval history, policy, and technology, past, present, and future.
 baseurl: "/" # the subpath of your site, e.g. /blog
@@ -27,10 +26,18 @@ url: "http://feargodanddreadnought.com" # the base hostname & protocol for your 
 #twitter_username: jekyllrb
 #github_username:  jekyll
 
+# If you want to link only specific pages in your header, uncomment
+# this and add the path to the pages in order as they should show up
+header_pages:
+ - about.md
+ - contact.md
+
 # Build settings
 theme: minima
+
 plugins:
   - jekyll-feed
+
 
 # Exclude from processing.
 # The following items will not be processed, by default.

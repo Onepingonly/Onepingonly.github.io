@@ -3,6 +3,6 @@ layout: page
 title: Contact Form 
 permalink: /contact/
 ---
-Your exciting text here!
+Use this form to contact me.
 
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSd5npZWY4SFETdta8XBLicY2YZPfsVKedxwfJ4A_dTLslrajw/viewform?embedded=true" width="640" height="808" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>

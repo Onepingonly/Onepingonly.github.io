@@ -3,10 +3,10 @@
 	"file": "main.css",
 	"sources": [
 		"main.scss",
-		"../../gems/gems/minima-2.5.1/_sass/minima.scss",
-		"../../gems/gems/minima-2.5.1/_sass/minima/_base.scss",
-		"../../gems/gems/minima-2.5.1/_sass/minima/_layout.scss",
-		"../../gems/gems/minima-2.5.1/_sass/minima/_syntax-highlighting.scss"
+		"../../../../../Library/Ruby/Gems/2.6.0/gems/minima-2.5.1/_sass/minima.scss",
+		"../../../../../Library/Ruby/Gems/2.6.0/gems/minima-2.5.1/_sass/minima/_base.scss",
+		"../../../../../Library/Ruby/Gems/2.6.0/gems/minima-2.5.1/_sass/minima/_layout.scss",
+		"../../../../../Library/Ruby/Gems/2.6.0/gems/minima-2.5.1/_sass/minima/_syntax-highlighting.scss"
 	],
 	"sourcesContent": [
 		"/*\n * assets/main.scss\n * the dashed lines above are required\n */\n\n$background-color: #1d1d1d; /* a dark, off-black for the bg */\n$text-color: #e6e6e6; /* an off-white for the text */\n$grey-color-light: #565656; /* for the border-top separators */\n$grey-color-dark: #adadad; /* such as the site title in the header, visited */\n\n@import \"minima\";\n",

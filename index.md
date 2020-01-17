@@ -6,7 +6,7 @@ layout: home
 ---
 Essays, Commentary, and More on Naval Matters Past, Present, and Future
 <br/>
-![](/Images/Nelson3.jpg)
+![](/Images/Nelson4.jpeg)
 
 
 Unless otherwise stated, no images on this site are my own.

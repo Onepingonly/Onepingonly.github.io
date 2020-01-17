@@ -24,7 +24,6 @@ description: >- # this means to ignore newlines until "baseurl:"
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "http://feargodanddreadnought.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: NelsonclassNerd
-instagram_username: feargodanddreadnought1906
 #github_username:  jekyll
 
 # If you want to link only specific pages in your header, uncomment
